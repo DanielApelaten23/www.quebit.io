@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
+Template Name: My portfolio
+Template URL: https://www.quebit.io/github/profile/DanielApelaten23/portfolio
+Author: Engr Daniel Eluanatein Apelaten
 License: https://bootstrapmade.com/license/
